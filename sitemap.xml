@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>https://real-estate-hobart.netlify.app/index.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/hobart-property.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/hobart-real-estate.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/hobart-nest-property.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/real-estate-hobart.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/nest-property-hobart.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/feed.xml</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/sitemap.xml</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/sitemap.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>https://real-estate-hobart.netlify.app/about-us.html</loc>
+                 <lastmod>2024-05-03T09:36:58+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
